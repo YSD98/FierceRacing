@@ -6415,7 +6415,7 @@ PrefabInstance:
       objectReference: {fileID: 1700868435}
     - target: {fileID: 3532671219085824180, guid: d230f6a7d651ff74480ac9be8ed3b04e, type: 3}
       propertyPath: m_Name
-      value: RWD Car
+      value: Car
       objectReference: {fileID: 0}
     - target: {fileID: 3532671219085824185, guid: d230f6a7d651ff74480ac9be8ed3b04e, type: 3}
       propertyPath: resetCar
